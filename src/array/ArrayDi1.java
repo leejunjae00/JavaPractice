@@ -17,7 +17,7 @@ public class ArrayDi1 {
       System.out.print(arr[row][0]);
       System.out.print(arr[row][1]);
       System.out.print(arr[row][2]);
-      System.out.println();
+      System.out.println(); //
     }
   }
 }

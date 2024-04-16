@@ -15,7 +15,7 @@ public class Array1Ref2 {
 
     //배열의 초기값은 0, i 는 0부터 시작
     for(int i = 0; i < students.length; i++){  // 배열의 길이까지
-      System.out.println("학생 " + (i + 1) + " 점수: " + students[i]);
+      System.out.println("학생 " + (i + 1) + " 점수: " + students[i]); //
     }
   }
 }

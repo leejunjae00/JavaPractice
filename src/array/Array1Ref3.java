@@ -8,7 +8,7 @@ public class Array1Ref3 {
 
 
     for(int i = 0; i < students.length; i++){  // 배열의 길이까지
-      System.out.println("학생 " + (i + 1) + " 점수: " + students[i]);
+      System.out.println("학생 " + (i + 1) + " 점수: " + students[i]); //
     }
   }
 }

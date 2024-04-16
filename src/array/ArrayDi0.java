@@ -4,7 +4,7 @@ public class ArrayDi0 {
   public static void main(String[] args) {
     // 2x3 2차원 배열
 
-    int[][] arr = new int[2][3]; //행2 열3
+    int[][] arr = new int[2][3]; //행2 열3 //
 
     arr[0][0] = 1;
     arr[0][1] = 2;
