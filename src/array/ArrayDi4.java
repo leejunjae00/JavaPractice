@@ -12,7 +12,6 @@ public class ArrayDi4 {
       }
     }
 
-
     for(int row = 0; row < arr.length; row++){
       for(int col = 0; col < arr[row].length; col++)  // arr[row].length 는 행 안에 있는 요소에 개수 = 3
       System.out.print(arr[row][col]);

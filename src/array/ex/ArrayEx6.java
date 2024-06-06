@@ -24,10 +24,10 @@ public class ArrayEx6 {
     maxNum = nums[0];
 
     for(int i = 1; i < n; i++){
-      if(nums[i] < minNum){
+      if(nums[i] < minNum){  // num[i] 값이 minNum 값보다 작으면 바꿔준다.
         minNum = nums[i];
       }
-      if(nums[i] > maxNum){
+      if(nums[i] > maxNum){  // num[i] 값이 minNum 값보다 크면 바꿔준다.
         maxNum = nums[i];
       }
     }
